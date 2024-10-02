@@ -8,7 +8,9 @@ Get Post Office(s) details search by Postal PIN Code:
 GET [https://api.postalpincode.in/pincode/{PINCODE}]
 Get Post Office(s) details search by Post Office branch name:
 GET [https://api.postalpincode.in/postoffice/{POSTOFFICEBRANCHNAME}]
+
 Source: http://www.postalpincode.in/Api-Details
+
 ScreenShot of API testing on postman:
 1)GET Post Office By Pincode
 ![Screenshot (797)](https://github.com/user-attachments/assets/9b4a745e-fd20-4fc9-ab02-e40a1cec5835)
